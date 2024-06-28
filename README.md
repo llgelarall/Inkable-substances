@@ -1,6 +1,6 @@
 # Welcome to the Teaching Assistant Resource Repository
 
-As a Teaching Assistant (TA), I have gathered a variety of useful materials and resources to help students succeed in their studies. In this repository, you will find guidelines, study aids, project examples, and more. These resources are designed to support your learning and provide clarity on various topics covered in our courses.
+As a Teaching Assistant (TA), I have gathered a variety of useful materials and resources for students in hardware architecture to help students succeed in their studies. In this repository, you will find guidelines, study aids, project examples, and more. These resources are designed to support your learning and provide clarity on various topics covered in our courses.
 
 ## Contents
 
