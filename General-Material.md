@@ -1,6 +1,6 @@
 # Free Study Materials for Undergraduate and Graduate Students
 
-In addition to these materials, there are tips I have discovered through my own experience, which I will be sharing on my personal blog ([Link](www.gisink.com)) .
+In addition to these materials, there are tips I have discovered through my own experience, which I will be sharing on my personal blog ([GinInk](www.gisink.com)) .
 
 
 | Keyword             | Title                                     | Link                                        |
