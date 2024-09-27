@@ -1,14 +1,8 @@
 # Free Study Materials for Undergraduate and Graduate Students
 
-In addition to these materials, there are tips I have discovered through my own experience, which I will be sharing on my personal blog ([Link](https://gisink.com)) .
-# Free Study Materials for Undergraduate and Graduate Students
+I have collected these materials based on my requirements and concerns during my master's education. For example, since I aspire to be a presenter who can influence people and see comprehension sparks in the audience's eyes, I have focused on how to be a good presenter. Along the way, I got familiar with storytelling and other techniques. This list will be updated over time, and you can find some personal tips on my personal blog ([GisInk](https://gisink.com)).
 
-In addition to these materials, there are tips I have discovered through my own experience, which I will be sharing on my personal blog .
-
-# Free Study Materials for Undergraduate and Graduate Students
-
-In addition to these materials, there are tips I have discovered through my own experience, which I will be sharing on my personal blog .
-
+In addition, some supplementary important notes are written under the table.
 
 |   #  | Keyword             | Title                                     | Link                                        |
 |------|---------------------|-------------------------------------------|---------------------------------------------|
@@ -25,3 +19,11 @@ In addition to these materials, there are tips I have discovered through my own 
 |   11 | Slide templates     |                                           | [4. slidesmania](https://slidesmania.com) |
 |   12 | Research management | Notion-Managing Your Research Projects    | [Youtube](https://www.youtube.com/watch?v=0O3_hiKJ4ew) |
 |   13 | Research management |                                           | [Youtube](https://www.youtube.com/watch?v=0O3_hiKJ4ew) |
+
+
+
+## Important Notes:
+
+1. **Get master in your breathing!**
+   - 1.1 During a presentation, whenever you feel anxious, take diaphragmatic breaths. Breathe by expanding your stomach instead of your chest, and exhale slowly through your mouth. It's like pouring water on fire—it reduces your anxiety and helps you present at your best.
+   - 1.2 If you encounter a bug that you have no clue how to solve, take three short, quick breaths to fill your stomach, and then exhale slowly. While this won't solve the problem, it will quickly reduce your anger and anxiety.
