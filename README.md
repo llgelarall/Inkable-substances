@@ -1,12 +1,14 @@
-# All you need is resources!
+# All You Need is Resources!
 
-As an M.Sc student, I have gathered a variety of useful materials and practical resources for students in hardware architecture. In this repository, you will find guidelines, study aids, project examples, and more. These resources are collected to support your learning and provide clarity on various topics covered in different courses.
+As an M.Sc. student, I have gathered a variety of useful materials and practical resources for students in hardware architecture. In this repository, you will find guidelines, study aids, project examples, and more. These resources are collected to support your learning and provide clarity on various topics covered in different courses.
 
 ## Contents
 
-- **Communication Guidelines**: Best practices for communicating with your TA to ensure effective and respectful interactions.
-- **Study Materials**: Notes, videos, people, slides, and additional material for various courses.
-- **Programming Resources**: Code snippets, tutorials, and helpful links to improve your coding skills.
-- **Exam Preparation**: Tips and practice questions to help you prepare for midterms and finals.
+| Section                | Description                                                             | Link                                |
+|------------------------|-------------------------------------------------------------------------|-------------------------------------|
+| Students and TAs       | Best practices for communicating with your TA to ensure effective and respectful interactions. | [Tips]([https://example.com/communication-guidelines](https://github.com/llgelarall/TA-Guidelines/blob/main/StudentsAndTAs.md)) |
+| General Studying Materials        | Free Study Materials for Undergraduate and Graduate Students | [Materials]([https://example.com/study-materials](https://github.com/llgelarall/TA-Guidelines/blob/main/General-Material.md)) |
+| Programming Resources   | Code snippets, tutorials, and helpful links to improve your coding skills. | In Progress |
+| Exam Preparation        | Tips and practice questions to help you prepare for midterms and finals. | In Progress |
 
-Feel free to explore and use these resources to enhance your learning experience. If you have any questions or need further assistance, don't hesitate to send me an email!
+Feel fr
