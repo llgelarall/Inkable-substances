@@ -1,6 +1,6 @@
 # Creating a Collaborative Learning Environment: Communication Tips for Students and TAs
 
-I am **Gelara Jafari Pouyani**, an M.Sc. computer science student focusing on hardware architecture at Shahid Beheshti University. As of June 2024, I have been a Teaching Assistant (TA) for five semesters. My experience includes working with graduate and undergraduate students in various courses.
+I am **Gelara Jafari Pouyani**, an M.Sc. computer science student focusing on hardware architecture at Shahid Beheshti University. As of September 2024, I have been a Teaching Assistant (TA) for five semesters. My experience includes working with graduate and undergraduate students in various courses.
 
 As a TA who loves this role, I have taken on various responsibilities, such as designing theoretical and programming exercises, answering questions during exams, evaluating midterms and finals, assessing students' middle and final projects, addressing their project-related queries, and problem-solving in the classroom.
 
