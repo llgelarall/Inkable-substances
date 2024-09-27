@@ -66,6 +66,11 @@ The scores you assign shape the future of students. Always be fair and ethical i
 ### 5. Set Clear Expectations and Provide a Rubric
 Clearly outline your expectations for each task and, if possible, provide a detailed rubric for scoring. This helps students understand how their work will be evaluated and what they should focus on.
 
+### 6. Efficient Deadline Management
+Many students struggle with effective scheduling and tend to postpone deadlines. As a TA, it may become your responsibility to help students develop better planning skills. To tackle this issue, I researched approaches used by top-rated universities and tested a solution in one of my courses that yielded positive results.
+The strategy involves applying a gradually increasing penalty for late submissions. For instance, for every day past the main deadline, a 5% penalty is applied; after two days, the penalty increases to 10%, and so on. This approach ensures that students who are committed to their tasks earn the score they deserve, while those with minor scheduling issues don’t lose all their points.
+It’s important to note that even if the majority of students agree to a deadline extension without penalties, you should avoid doing so. Often, top-performing students may be reluctant to object, and this approach ensures fairness for everyone.
+
 ---
 
 The list will be updated regularly. Feel free to share your thoughts or ask questions about these guidelines. Let's work together to make the learning experience smoother and more enjoyable for everyone!
