@@ -1,4 +1,4 @@
-# All you need is material!
+# All you need is resources!
 
 As an M.Sc student, I have gathered a variety of useful materials and practical resources for students in hardware architecture. In this repository, you will find guidelines, study aids, project examples, and more. These resources are collected to support your learning and provide clarity on various topics covered in different courses.
 
