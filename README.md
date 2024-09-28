@@ -13,3 +13,4 @@ As an M.Sc. student, I have gathered a variety of useful materials and practical
 
 Feel free to explore and use these resources to enhance your learning experience. If you have any questions or need further assistance, don't hesitate to send me an email!
 
+Furthermore, if you are interested in collaborating to enhance the material or have any suggestions, I would be happy to have a conversation and collaborate with you. You will be added as a collaborator in this project!
