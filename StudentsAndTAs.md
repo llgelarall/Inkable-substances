@@ -71,6 +71,9 @@ Many students struggle with effective scheduling and tend to postpone deadlines.
 The strategy involves applying a gradually increasing penalty for late submissions. For instance, for every day past the main deadline, a 5% penalty is applied; after two days, the penalty increases to 10%, and so on. This approach ensures that students who are committed to their tasks earn the score they deserve, while those with minor scheduling issues don’t lose all their points.
 It’s important to note that even if the majority of students agree to a deadline extension without penalties, you should avoid doing so. Often, top-performing students may be reluctant to object, and this approach ensures fairness for everyone.
 
+### 7. Be Brave to Apologize
+As TAs, we are human and bound to make mistakes. If you realize you've made an error or there's been a misunderstanding, don't shrug it off. Be brave enough to apologize sincerely. It demonstrates maturity, responsibility, and a genuine commitment to your role. A simple apology can help build trust and respect with your students. If needed, make up for the mistake to keep a positive relationship with them.
+
 ---
 
 The list will be updated regularly. Feel free to share your thoughts or ask questions about these guidelines. Let's work together to make the learning experience smoother and more enjoyable for everyone!
