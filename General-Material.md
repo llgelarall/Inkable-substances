@@ -19,6 +19,7 @@ In addition, some supplementary important notes are written under the table.
 |   11 | Slide templates     |                                           | [4. slidesmania](https://slidesmania.com) |
 |   12 | Research management | Notion-Managing Your Research Projects    | [Youtube](https://www.youtube.com/watch?v=0O3_hiKJ4ew) |
 |   13 | Research management |                                           | [Youtube](https://www.youtube.com/watch?v=0O3_hiKJ4ew) |
+|   14 | Applying for PhD    |                                           | [PDF]([https://www.youtube.com/watch?v=0O3_hiKJ4ew](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)) |
 
 
 
