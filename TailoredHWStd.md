@@ -1,10 +1,10 @@
 # Tailored Material for Computer Hardware Design Students
 
-As someone who transitioned from software development to a master's program in hardware design without prior experience, I faced the challenge of quickly bridging the knowledge gap to engage in meaningful research. Through extensive self-study, I successfully navigated this learning curve and emerged as a top-ranked student in my field.
+As someone who transitioned from software development to a master's program in hardware design without prior experience, I faced the challenge of quickly bridging the knowledge gap to engage in meaningful research. Through extensive self-study, I successfully navigated this learning curve and emerged as a top-ranked student in my field (read my tips [here](https://gisink.com).
 
 To help others on a similar path, I’ve curated a list of high-quality resources, mainly YouTube channels and playlists, that provide comprehensive knowledge in hardware design. These resources cover courses from top-ranked universities, lectures from renowned professors, and sessions from leading conferences, symposiums, and research groups.
 
-I’m known for finding excellent study materials, so if you’re searching for something specific and haven’t found it yet, feel free to reach out to me via email.
+I’m known for finding excellent study materials, so if you’re searching for something specific and haven’t found it yet, feel free to email me.
 
 |   #  | **Keyword**          | **Description**                                 | **Link**                                    |
 |------|----------------------|-------------------------------------------|---------------------------------------------|
