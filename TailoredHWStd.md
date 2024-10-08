@@ -34,4 +34,4 @@ I’m known for finding excellent study materials, so if you’re searching for 
 
 This list will be continuously updated as I find more valuable resources.
 
-P.S. You can also find excellent materials at this [Link]([https://www.youtube.com/watch?v=nblGw37Fv8A](https://rajesh-s.gitbook.io/compengg).
+P.S. You can also find excellent materials at this [link](https://rajesh-s.gitbook.io/compengg).
