@@ -21,7 +21,7 @@ I’m known for finding excellent study materials, so if you’re searching for 
 |  11  | Conference            | ACM                                      | [YouTube](https://www.youtube.com/@TheOfficialACM/playlists) |
 |  12  | Conference            | ACM SIGARCH                              | [YouTube](https://www.youtube.com/@acmsigarch2299/videos) |
 |  13  | Algo/GameTheory/Data  | Prof. Haji Aghayi, Meryland              | [YouTube](https://www.youtube.com/@hajiaghayi/playlists) |
-|  14  | Lectures              | Onur Mutlu Lectures                      | [YouTube](https://www.youtube.com/@OnurMutluLectures/playlists) |
+|  14  | Processing in Memory  | Onur Mutlu Lectures                      | [YouTube](https://www.youtube.com/@OnurMutluLectures/playlists) |
 |  15  | Lectures/HPC          | Prof. Behrooz Parhami, UCLA **Parallel Processing** | [YouTube](https://www.youtube.com/@behroozparhami3560/playlists) |
 |  16  | CUDA                  | The principles of CUDA                   | [YouTube](https://www.youtube.com/watch?v=xwbD6fL5qC8&t=3s) |
 |  17  | CUDA                  | CUDA in 12 hours, Latest course          | [YouTube](https://www.youtube.com/watch?v=86FAWCzIe_4&t=1012s) |
