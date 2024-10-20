@@ -8,6 +8,7 @@ I’m known for finding excellent study materials, so if you’re searching for 
 
 |   #  | **Keyword**          | **Description**                           | **Link**                                    |
 |------|----------------------|-------------------------------------------|---------------------------------------------|
+|   0  | Why Computer Architecture       | Prof. Onur Mutlu, ETH| [YouTube](https://www.youtube.com/watch?v=ziMRjDlLEwo&list=PL5Q2soXY2Zi-LfDdGgWyLcTSqzm6a26wD) |
 |   1  | HW/SW Co-Design       | Prof. Luis CeZe, UW| [YouTube](https://www.youtube.com/watch?v=2JS6EXdqi5M&list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL) |
 |   2  | Lectures/EfficientML  | Prof. Song Han, MIT                      | [YouTube](https://www.youtube.com/watch?v=RgUl6BlyaF4&list=PL80kAHvQbh-qGtNc54A6KW4i4bkTPjiRF) |
 |   3  | Deep Learning         | Dr. Alexandre Amini and Dr. Ava Amini, MIT| [YouTube](https://www.youtube.com/@AAmini) |
