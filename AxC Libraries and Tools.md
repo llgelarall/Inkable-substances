@@ -17,6 +17,7 @@ The table below includes the name, year, link, and application field of each too
 | AXNet                         | 2018 | [GitHub](https://github.com/pengzhenghao/AXNet)                                                                                 | Neural‑network‑based approximate inference                    |
 | Adaptive approximate computing on hardware accelerators | 2020 | [GitHub](https://github.com/embeddedlabsiu/adaptive-approximate-computing)                            | Gem5 + CGRA runtime for adaptive accuracy                     |
 | BACS                          | 2019 | [GitHub](https://github.com/scale-lab/BACS)                                                                                     | Benchmarks for Approximate Circuit Synthesis                  |
-|AM-Lib                         |2023  | [GitHub](https://github.com/skycrapers/AM-Lib)                                                                                  | Library of approximate multipliers                            |
+| AM-Lib                        | 2023 | [GitHub](https://github.com/skycrapers/AM-Lib)                                                                                  | Library of approximate multipliers                            |
+| BLASYS                        | 2021 |  [GitHub](https://github.com/scale-lab/BLASYS?tab=readme-ov-file)                                                               | An Approximate Logic Synthesis Framework based on Boolean Matrix Factorization |
 
 > **Contributing**   PRs are welcome! If you know a tool, dataset, or benchmark that belongs here, please open an issue or submit a pull request with a one‑line addition to the table.
