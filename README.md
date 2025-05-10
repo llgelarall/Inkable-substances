@@ -9,7 +9,8 @@ As an M.Sc. student, I have gathered a variety of useful materials and practical
 | Students and TAs       | Best practices for communicating with your TA to ensure effective and respectful interactions. | [Link](https://github.com/llgelarall/TA-Guidelines/blob/main/StudentsAndTAs.md) |
 | General Studying Materials        | Free study materials for undergraduate and graduate students| [Link](https://github.com/llgelarall/TA-Guidelines/blob/main/General-Material.md) |
 | Hardware Design        | Tailored materials for graduate hardware student | [Link](https://github.com/llgelarall/TA-Guidelines/blob/main/TailoredHWStd.md) |
-| Imprecise/Approximate Computing       | Recommended Papers on Imprecise/Approximate Computing | [Link](https://github.com/llgelarall/TA-Guidelines/blob/main/ImpreciseOrApproximateComputing.md) |
+| Approximate Computing Papers      | Recommended Papers on Imprecise/Approximate Computing | [Link](https://github.com/llgelarall/TA-Guidelines/blob/main/ImpreciseOrApproximateComputing.md) |
+| Approximate Computing Libaries, Tools, and Benchmarks      | - | [Link](https://github.com/llgelarall/Inkable-substances/blob/main/AxC%20Libraries%20and%20Tools.md) |
 | Brain-inspired Computing       | Recommended resources for starting jouney in brain-inspired computing | [Link](https://github.com/llgelarall/Inkable-substances/blob/main/Brain-inspired%20Computing/resources.md) |
 | Programming Resources   | Code snippets, tutorials, and helpful links to improve your coding skills. | [In Progress](https://github.com/llgelarall/TA-Guidelines/blob/main/General-Material.md) |
 | Exam Preparation        | Tips and practice questions to help you prepare for midterms and finals. | [In Progress](https://github.com/llgelarall/TA-Guidelines/blob/main/General-Material.md) |
