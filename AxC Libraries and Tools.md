@@ -21,4 +21,6 @@ The table below includes the name, year, link, and application field of each too
 | 12 | BLASYS                        | 2021 |  [GitHub](https://github.com/scale-lab/BLASYS?tab=readme-ov-file)                                                              | An Approximate Logic Synthesis Framework based on Boolean Matrix Factorization |
 | 13 | ABACUS                        | 2020 |  [GitHub](https://github.com/scale-lab/ABACUS)                                                                                 | Tool for approximate logic synthesis                           |
 | 14 | CAB                           | 2018 |  [GitHub](https://github.com/scale-lab/CAB)                                                                                    | power-Capping aware resource manager for Approximate Big data processing             |
+| 15 | tf-approximate                | 2020 | [GitHub](https://github.com/ehw-fit/tf-approximate)                                                                            | Approximate layers - TensorFlow extension                      |
+
 > **Contributing**   PRs are welcome! If you know a tool, dataset, or benchmark that belongs here, please open an issue or submit a pull request with a one‑line addition to the table.
